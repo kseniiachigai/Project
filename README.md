@@ -6,8 +6,8 @@ The latest version of pip should be installed for bot
 ## Installing
 
 ## Usage 
-To start using the bot it is needed to simply to send "/start" 
-1. Send "/start"
-2. 
+1. To start using the bot it is needed to simply to send "/start";
+2. Then, enter the academic group in Russian (e. g. "БЦИ211");
+3. eventually, the timetable will be sent, where every new message represents the separate weekday with lectures and seminars.
 ## Link to the bot
 https://t.me/RUZZ_BBot
