@@ -9,6 +9,27 @@ The following should be installed to install the bot:
 - json 
 ## Installing
 To run a bot the python 3.10 should be installed and few additional librasries [requirements.txt](https://github.com/kseniiachigai/Project/blob/main/requirements.txt).
+Firstly, we must open terminal on Mac 
+'''
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+'''
+Then install packages
+'''
+python3 get-pip.py
+'''
+After that install API
+'''
+pip install pyTelegramBotAPI
+'''
+Install requests
+'''
+pip install requests
+'''
+And install jsonlib
+'''
+pip install jsonlib
+'''
+After all mentioned procedures, the programm should be open either in VS Code or Idle. And to turn off, the work of terminal should be cancelled.
 ## Usage 
 To start using the bot it is needed to simply to send "/start". Then, enter the academic group in Russian (e. g. "БЦИ211"). Eventually, the timetable will be sent, where every new message represents the separate weekday with lectures and seminars.
 1. Send "/start";
