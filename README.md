@@ -41,4 +41,4 @@ To start using the bot it is needed to simply to send "/start". Then, enter the 
 - Ekaterina Deeva (211)
 - Viktoria Grishina (211)
 ## Link to the bot
-https://t.me/RUZZ_BBot
+https://t.me/RUZZ_BBot 
