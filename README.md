@@ -3,12 +3,14 @@
 We have created a bot in Telegram which will be useful for the students of HSE University. This bot show your a timetable of lectures and seminars of every academic group for a week. It is possible to see the starting time, weekday, name of the discipline and type of the class and language on whcih the discipline is taught. The classes are numerated, corresponding with the order of sequence of all classes. If there is no classes on a particular day, the bot write about abscence of lessons and wish a nice day. All information is taken from the official site of HSE University timetable called RUZ ([Расписание Учебных Занятий](https://ruz.hse.ru/)).
 ## Requirements
 The following should be installed to install the bot: 
+- python
 - pip
 - request 
 - telebot 
 - json 
+More detailed information about requirements is presented in the file [requirements.txt](https://github.com/kseniiachigai/Project/blob/main/requirements.txt).
 ## Installing
-To run a bot the python 3.10 should be installed and few additional librasries [requirements.txt](https://github.com/kseniiachigai/Project/blob/main/requirements.txt).
+To instal bot the following operations should be done:
 Firstly, we must open terminal on Mac 
 '''
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
