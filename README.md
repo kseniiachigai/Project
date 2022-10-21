@@ -15,9 +15,9 @@ To start using the bot it is needed to simply to send "/start". Then, enter the 
 2. Enter academic group;
 3. Get a timetable.
 ## Team members
-- Kseniia Chigai
-- Polina Zhiltsova
-- Ekaterina Deeva
-- Viktoria Grishina
+- Kseniia Chigai (213)
+- Polina Zhiltsova (211)
+- Ekaterina Deeva (211)
+- Viktoria Grishina (211)
 ## Link to the bot
 https://t.me/RUZZ_BBot
