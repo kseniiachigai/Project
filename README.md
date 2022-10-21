@@ -11,7 +11,7 @@ The following should be installed to install the bot:
 To run a bot the python 3.10 should be installed and few additional librasries [requirements.txt](https://github.com/kseniiachigai/Project/blob/main/requirements.txt).
 ## Usage 
 To start using the bot it is needed to simply to send "/start". Then, enter the academic group in Russian (e. g. "БЦИ211"). Eventually, the timetable will be sent, where every new message represents the separate weekday with lectures and seminars.
-1. Send "start";
+1. Send "/start";
 2. Enter academic group;
 3. Get a timetable.
 ## Team members
