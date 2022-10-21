@@ -8,29 +8,30 @@ The following should be installed to install the bot:
 - request 
 - telebot 
 - json 
+
 More detailed information about requirements is presented in the file [requirements.txt](https://github.com/kseniiachigai/Project/blob/main/requirements.txt).
 ## Installing
-To instal bot the following operations should be done:
+### To instal bot the following operations should be done:
 Firstly, we must open terminal on Mac 
-'''
+```
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-'''
+```
 Then install packages
-'''
+```
 python3 get-pip.py
-'''
+```
 After that install API
-'''
+```
 pip install pyTelegramBotAPI
-'''
+```
 Install requests
-'''
+```
 pip install requests
-'''
+```
 And install jsonlib
-'''
+```
 pip install jsonlib
-'''
+```
 After all mentioned procedures, the programm should be open either in VS Code or Idle. And to turn off, the work of terminal should be cancelled.
 ## Usage 
 To start using the bot it is needed to simply to send "/start". Then, enter the academic group in Russian (e. g. "БЦИ211"). Eventually, the timetable will be sent, where every new message represents the separate weekday with lectures and seminars.
@@ -43,4 +44,4 @@ To start using the bot it is needed to simply to send "/start". Then, enter the 
 - Ekaterina Deeva (211)
 - Viktoria Grishina (211)
 ## Link to the bot
-https://t.me/RUZZ_BBot 
+https://t.me/RUZZ_BBot
