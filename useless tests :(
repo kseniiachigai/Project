@@ -1,0 +1,25 @@
+from unittest import TestCase
+
+from pars import button_message
+from pars import markup
+from pars import requests
+
+
+
+
+class TestProjectBot(TestCase):
+    def button_message(self) -> None:
+        """This test checks whether input from a user equals output from API"""
+    markup = ['start']
+
+
+    def send_text(self) -> None:
+        """This func test the correct output of dict_return"""
+
+
+
+    def button button_message(self) -> None:
+        """we say goodbye"""
+
+        sample = ("Please, check the name of a city you entered", ("abrakadabra", weather_token))
+        self.types.KeybaordButton(sample[0].lower()
