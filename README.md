@@ -34,10 +34,12 @@ pip install jsonlib
 ```
 After all mentioned procedures, the programm should be open either in VS Code or Idle. And in order to turn off the bot, the work of terminal should be cancelled.
 ## Usage 
-To start using the bot it is needed to simply to send "/start". Then, enter the academic group in Russian (e. g. "БЦИ211"). Eventually, the timetable will be sent, where every new message represents the separate weekday with lectures and seminars.
+To start using the bot it is needed to simply to send or press "/start". Then, enter the academic group in Russian (e. g. "БЦИ211"). Eventually, the timetable will be sent, where every new message represents the separate weekday with lectures and seminars.
 1. Send "/start";
 2. Enter academic group;
 3. Get a timetable.
+
+To stop the bot you can press or enter "/stop". To run bot again press or enter "/start"
 ## Team members
 - Kseniia Chigai (213)
 - Polina Zhiltsova (211)
