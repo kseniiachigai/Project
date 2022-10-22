@@ -39,7 +39,7 @@ To start using the bot it is needed to simply to send or press "/start". Then, e
 2. Enter academic group;
 3. Get a timetable.
 
-To stop the bot you can press or enter "/stop". To run bot again press or enter "/start"
+To stop the bot you can press or enter "/stop". To run bot again press or enter "/start".
 ## Team members
 - Kseniia Chigai (213)
 - Polina Zhiltsova (211)
